@@ -11,8 +11,5 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-# Serverless framework 
-node_modules/
-.serverless/
+# Go-dep
 vendor/
-_warmup/
